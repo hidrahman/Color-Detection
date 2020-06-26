@@ -1,4 +1,4 @@
-Project Title: Color Detection
+### Project Title: Color Detection
 
 To learn how to use basic RGB color data by using Python with its framework.
 
@@ -11,7 +11,7 @@ Tech/framework used: Pandas, OpenCV, Numpy
 Built with: Python
 
 How to use: 
-a. Execute Color Detection code and type (b) in the terminal
-b. python color_detection.py -i <add your image path here>
+* Execute Color Detection code and type (b) in the terminal
+* python color_detection.py -i <add your image path here>
 
 Credits: Credit to Data Flair Training (https://data-flair.training/)
